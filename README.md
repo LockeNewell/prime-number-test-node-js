@@ -7,7 +7,7 @@
 
 
 ## hint
-make use of the % operator
+* make use of the % operator
 
 ## Stretch Task
 * create unit tests for the function
